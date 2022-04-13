@@ -1,0 +1,45 @@
+Clipboard: 
+         try:
+            win32clipboard.OpenClipboard()
+            pasted_data = win32clipboard.GetClipboardData()
+            win32clipboard.CloseClipboard()
+            
+            f.write("Clipboard: \n " + pasted_data)
+        except:
+            f.write("Clipboard: \n Unable to get clipboard data")Clipboard: 
+         try:
+            win32clipboard.OpenClipboard()
+            pasted_data = win32clipboard.GetClipboardData()
+            win32clipboard.CloseClipboard()
+            
+            f.write("Clipboard: \n " + pasted_data)
+        except:
+            f.write("Clipboard: \n Unable to get clipboard data")Clipboard: 
+         try:
+            win32clipboard.OpenClipboard()
+            pasted_data = win32clipboard.GetClipboardData()
+            win32clipboard.CloseClipboard()
+            
+            f.write("Clipboard: \n " + pasted_data)
+        except:
+            f.write("Clipboard: \n Unable to get clipboard data")Clipboard: 
+         try:
+            win32clipboard.OpenClipboard()
+            pasted_data = win32clipboard.GetClipboardData()
+            win32clipboard.CloseClipboard()
+            
+            f.write("Clipboard: \n " + pasted_data)
+        except:
+            f.write("Clipboard: \n Unable to get clipboard data")Clipboard: 
+         try:
+            win32clipboard.OpenClipboard()
+            pasted_data = win32clipboard.GetClipboardData()
+            win32clipboard.CloseClipboard()
+            
+            f.write("Clipboard: \n " + pasted_data)
+        except:
+            f.write("Clipboard: \n Unable to get clipboard data")Clipboard: 
+ for file in delete_files:
+    os.remove(file_merge + file)Clipboard: 
+ for file in delete_files:
+    os.remove(file_merge + file)

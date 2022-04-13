@@ -1,0 +1,6 @@
+Public IP: 137.97.81.34
+Processor: AMD64 Family 23 Model 24 Stepping 1, AuthenticAMD
+System: Windows 10.0.22000
+Machine: AMD64
+Hostname: LAPTOP-NBUSEJHA
+IP Address: 192.168.43.22
