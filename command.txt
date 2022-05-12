@@ -4,3 +4,6 @@ scipy
 cryptography
 requests
 pillow
+
+pip install pynput
+pip install sounddevice
